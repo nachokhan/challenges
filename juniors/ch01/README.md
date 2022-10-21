@@ -12,7 +12,7 @@ Write a program called "serocu" to search for all ocurrences of n-length words i
 - A list of every ocurrence.
 
 
-## Output
+## Tips
 - Use functions/methods for different operations (i.e. open a file, search ocurrencies, etc.)
 
 
