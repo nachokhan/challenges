@@ -1,5 +1,5 @@
 ## Description
-Write a program called "fdown" to search for all ocurrences of n-length words in a file.
+Write a program called "serocu" to search for all ocurrences of n-length words in a file.
 
 
 ## Input
@@ -10,5 +10,8 @@ Write a program called "fdown" to search for all ocurrences of n-length words in
 The output contains tu lines:
 - The quantity of ocurrences.
 - A list of every ocurrence.
+
+## Tips
+- Use functions/methods for different operations (i.e. open a file, search ocurrencies, etc.)
 
 
