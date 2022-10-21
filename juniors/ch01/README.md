@@ -8,9 +8,9 @@ Write a program called "serocu" to search for all ocurrences of n-length words i
 
 
 ## Output
-The output contains tu lines:
-- The quantity of ocurrences.
-- A list of every ocurrence.
+- The output contains 2 lines:
+    - The quantity of ocurrences.
+    - A list of every ocurrence.
 
 
 ## Tips
