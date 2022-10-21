@@ -1,2 +1,2 @@
 # challenges
-some random challenges to improve skills
+This repo contains some random challenges to improve skills.
