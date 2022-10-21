@@ -7,12 +7,12 @@ Write a program called "serocu" to search for all ocurrences of n-length words i
 - The name of the text file  to search in.
 
 
-## output
+## Output
 - The quantity of ocurrences.
 - A list of every ocurrence.
 
 
-## Tips
+## Output
 - Use functions/methods for different operations (i.e. open a file, search ocurrencies, etc.)
 
 
